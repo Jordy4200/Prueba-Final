@@ -1,0 +1,21 @@
+/* Estilos generales */
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Estilos para el primer div */
+#bloque1 {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    text-align: center;
+}
+
+/* Estilos para el segundo div */
+#bloque2 {
+    width: 200px;
+    padding: 10px;
+    border: 1px solid black;
+    margin-top: 10px;
+}
