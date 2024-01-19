@@ -4,7 +4,6 @@ bloque1.addEventListener("mouseover", () => {
     bloque2.style.backgroundColor = "grey";
 });
 
-// Asignar un evento de mouseout al primer div
 bloque1.addEventListener("mouseout", () => {
     bloque2.style.backgroundColor = "white";
 });
